@@ -2,11 +2,11 @@
 
 ## 目次
 
-[① 準備](#準備)
+[①](https://www.tiktok.com/@takeuchi180/video/7481147897824726280?is_from_webapp=1&sender_device=pc) 
 
-[② 設定](#設定)
+[②](https://www.tiktok.com/@user6090923304326/video/7483361209950031122?is_from_webapp=1&sender_device=pc) 
 
-[③ 公開](#公開)
+[③](https://www.google.com/) Googleへ行く
 
 ---
 
