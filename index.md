@@ -2,9 +2,9 @@
 
 ## 目次
 
-[①](https://lite.tiktok.com/t/ZSM3Brfdn/) 
+## [①](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-[②](https://lite.tiktok.com/t/ZSMv9kLES/) 
+## [②](https://lite.tiktok.com/t/ZSMv9kLES/) 
 
 <a href="./9_27スクリプトコレクション.txt" download>9_27スクリプトコレクション</a>
 
