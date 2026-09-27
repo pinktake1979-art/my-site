@@ -6,7 +6,7 @@
 
 [②](https://lite.tiktok.com/t/ZSMv9kLES/) 
 
-[③]<a href="./スクリプトコレクション.txt" download>download スクリプトコレクション</a>
+<a href="./9_27スクリプトコレクション.txt">9_27スクリプトコレクション.txt</a>
 
 ---
 
