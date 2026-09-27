@@ -6,7 +6,7 @@
 
 [②](https://lite.tiktok.com/t/ZSMv9kLES/) 
 
-[③](https://www.google.com/) Googleへ行く
+[③]<a href="./スクリプトコレクション.txt" download>download スクリプトコレクション</a>
 
 ---
 
