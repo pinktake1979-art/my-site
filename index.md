@@ -4,7 +4,7 @@
 
 # [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-# [②みつ](https://lite.tiktok.com/t/ZSM9AcTvMhLd4D-9fRBa/)
+# [②みつ](https://lite.tiktok.com/t/ZS9AcTvMhLd4D-9fRBa/)
 
 # [③Ｅ](https://lite.tiktok.com/t/ZS9A3CE1H6CfM-Er2uu/)　　　　[④Ｍ](https://lite.tiktok.com/t/ZS9AcKX7N64sk-UBB/)
 
