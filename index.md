@@ -4,7 +4,7 @@
 
 # [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-# [②Eみつ](https://lite.tiktok.com/t/ZSM9AcTvMhLd4D-9fRBa/) 　　　　 [③Mみつ](https://lite.tiktok.com/t/ZS9AcKX7N64sk-UBB/) 
+# [②Eみつ](https://lite.tiktok.com/t/ZSM9AcTvMhLd4D-9fRBa/) 　　　  [③Mみつ](https://lite.tiktok.com/t/ZS9AcKX7N64sk-UBB/) 
 
 <a href="./9_27スクリプトコレクション.txt" download>9_27スクリプトコレクション</a>
 
