@@ -1,10 +1,10 @@
 # 私のサイト
 
-## 目次
+## 9/28-12/28
 
-# [①](https://lite.tiktok.com/t/ZSM3Brfdn/) 
+# [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-# [②](https://lite.tiktok.com/t/ZSMv9kLES/) 
+# [②Eみつ](https://lite.tiktok.com/t/ZSM9AcTvMhLd4D-9fRBa/) # [③Mみつ](https://lite.tiktok.com/t/ZS9AcKX7N64sk-UBB/) 
 
 <a href="./9_27スクリプトコレクション.txt" download>9_27スクリプトコレクション</a>
 
