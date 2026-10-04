@@ -4,12 +4,18 @@
 
 # [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-# [②はちみつ](https://lite.tiktok.com/t/ZS9AcTvMhLd4D-9fRBa/)
+# [②はちみつ](https://lite.tiktok.com/t/ZS9AcTvMhLd4D-9fRBa/)　　　
 
 # [③Ｅ紹介](https://lite.tiktok.com/t/ZS9A3CE1H6CfM-Er2uu/)　　　 [④Ｍ紹介](https://lite.tiktok.com/t/ZS9A3qGrtQJLt-cQjO0/)
 
 
+[Ｅ用はちみつ](https://lite.tiktok.com/t/ZS9DM5xhoowu4-mxE3w/)
+
 <a href="./9_27スクリプトコレクション.txt" download>9_27スクリプトコレクション</a>
+
+<a href="./autoclicker_presets_backup1004.json" download>autoclicker_presets_backup1004</a>
+
+
 
 ---
 
