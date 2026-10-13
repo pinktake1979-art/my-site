@@ -13,7 +13,9 @@
 
 <a href="./9_27スクリプトコレクション.txt" download>9_27スクリプトコレクション</a>
 
-<a href="./autoclicker_presets_backup1004.json" download>autoclicker_presets_backup1004</a>
+<a href="./オートタップ_v1.2.0.apk" download>オートタップ_v1.2.0.apk</a>
+
+<a href="./オートタップ設定_20261013_1823.json" download>オートタップ設定_1013</a>
 
 
 
