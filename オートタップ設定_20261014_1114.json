@@ -1,0 +1,230 @@
+{
+  "format": "autotap-configs",
+  "version": 1,
+  "exportedAt": "2026-10-14T11:14:26+09:00",
+  "screen": {
+    "width": 1080,
+    "height": 2400,
+    "densityDpi": 408,
+    "rotation": 0
+  },
+  "configs": [
+    {
+      "v": 1,
+      "id": "b75f7c5b-8659-4827-a728-db6ff9bb14b8",
+      "name": "検索",
+      "mode": "MULTI",
+      "updatedAt": 1791944000654,
+      "settings": {
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 63,
+        "antiDetection": false
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 972,
+          "y": 2266,
+          "endX": 398,
+          "endY": 936,
+          "delayMs": 22000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 676,
+          "y": 181,
+          "endX": 469,
+          "endY": 1007,
+          "delayMs": 2000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 969,
+          "y": 1803,
+          "endX": 540,
+          "endY": 1078,
+          "delayMs": 2000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "id": "4aee2997-e4bc-471e-8a56-c4ab519a9be5",
+      "name": "短",
+      "mode": "MULTI",
+      "updatedAt": 1791943952019,
+      "settings": {
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": true
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 817,
+          "y": 1416,
+          "endX": 398,
+          "endY": 936,
+          "delayMs": 50000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 78,
+          "y": 183,
+          "endX": 469,
+          "endY": 1007,
+          "delayMs": 6000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "id": "0392996a-117f-406b-96fe-0be787c93d5c",
+      "name": "ボーナス",
+      "mode": "MULTI",
+      "updatedAt": 1791943791917,
+      "settings": {
+        "intervalValue": 29000,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": true
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 454,
+          "y": 1429,
+          "endX": 398,
+          "endY": 936,
+          "delayMs": 29000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 75,
+          "y": 188,
+          "endX": 469,
+          "endY": 1007,
+          "delayMs": 3000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "id": "726752c3-9b98-4757-8889-4611e4ea951b",
+      "name": "動画(3分)",
+      "mode": "MULTI",
+      "updatedAt": 1791943756304,
+      "settings": {
+        "intervalValue": 29000,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": false
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 193,
+          "y": 906,
+          "endX": 398,
+          "endY": 936,
+          "delayMs": 180000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "SWIPE",
+          "x": 15,
+          "y": 1474,
+          "endX": 216,
+          "endY": 1482,
+          "delayMs": 500,
+          "pressMs": 50,
+          "swipeMs": 50,
+          "repeat": 1
+        },
+        {
+          "type": "SWIPE",
+          "x": 14,
+          "y": 1670,
+          "endX": 225,
+          "endY": 1672,
+          "delayMs": 6000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "id": "9b973b7e-14c5-428a-aa0c-cf2a622dcb98",
+      "name": "手動広告115秒",
+      "mode": "MULTI",
+      "updatedAt": 1791943247009,
+      "settings": {
+        "intervalValue": 115000,
+        "intervalUnit": "MS",
+        "stopMode": "INFINITE",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": false
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 817,
+          "y": 1416,
+          "endX": 398,
+          "endY": 936,
+          "delayMs": 115000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 78,
+          "y": 183,
+          "endX": 469,
+          "endY": 1007,
+          "delayMs": 5000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ]
+    }
+  ]
+}
