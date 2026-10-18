@@ -1,0 +1,40 @@
+{
+  "format": "autotap-configs",
+  "version": 2,
+  "exportedAt": "2026-10-18T14:21:52+09:00",
+  "screen": {
+    "width": 720,
+    "height": 1520,
+    "densityDpi": 272,
+    "rotation": 0
+  },
+  "configs": [
+    {
+      "v": 1,
+      "id": "16f31411-7e86-4cbe-ab9f-c9d3757c3c77",
+      "name": "動画",
+      "mode": "LINK",
+      "updatedAt": 1792278549241,
+      "settings": {
+        "intervalMs": 100,
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "INFINITE",
+        "stopTimeSec": 300,
+        "stopCycles": 10,
+        "antiDetection": false
+      },
+      "targets": [],
+      "color": "#E91E63",
+      "link": {
+        "url": "https:\/\/lite.tiktok.com\/t\/ZSM3Brfdn\/",
+        "intervalMs": 180000,
+        "stopMode": "INFINITE",
+        "stopTimeSec": 3600,
+        "stopCycles": 10,
+        "closeMethod": "REOPEN",
+        "keepScreenOn": true
+      }
+    }
+  ]
+}
