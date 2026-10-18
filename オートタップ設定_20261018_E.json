@@ -1,0 +1,215 @@
+{
+  "format": "autotap-configs",
+  "version": 2,
+  "exportedAt": "2026-10-18T18:09:18+09:00",
+  "screen": {
+    "width": 720,
+    "height": 1520,
+    "densityDpi": 272,
+    "rotation": 0
+  },
+  "configs": [
+    {
+      "v": 1,
+      "id": "6c85a5d0-b7ac-4786-8e68-1b6996f03870",
+      "name": "ボーナス",
+      "mode": "MULTI",
+      "updatedAt": 1792313851875,
+      "settings": {
+        "intervalMs": 30000,
+        "intervalValue": 30000,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": true
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 254,
+          "y": 875,
+          "endX": 265,
+          "endY": 593,
+          "delayMs": 29000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 57,
+          "y": 106,
+          "endX": 313,
+          "endY": 638,
+          "delayMs": 3000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ],
+      "color": "#FF9800"
+    },
+    {
+      "v": 1,
+      "id": "f2cc6903-b504-4373-8fe4-5edcc4c3bdf3",
+      "name": "短",
+      "mode": "MULTI",
+      "updatedAt": 1792313917873,
+      "settings": {
+        "intervalMs": 100,
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 3,
+        "antiDetection": true
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 528,
+          "y": 872,
+          "endX": 265,
+          "endY": 593,
+          "delayMs": 50000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 63,
+          "y": 100,
+          "endX": 313,
+          "endY": 638,
+          "delayMs": 6000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ],
+      "color": "#2196F3"
+    },
+    {
+      "v": 1,
+      "id": "6cf29bb7-0433-4273-a9c0-fcd6cfa3511f",
+      "name": "動画",
+      "mode": "LINK",
+      "updatedAt": 1792314259072,
+      "settings": {
+        "intervalMs": 100,
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "INFINITE",
+        "stopTimeSec": 300,
+        "stopCycles": 10,
+        "antiDetection": false
+      },
+      "targets": [],
+      "color": "#E91E63",
+      "link": {
+        "url": "https:\/\/lite.tiktok.com\/t\/ZSM3Brfdn\/",
+        "intervalMs": 180000,
+        "stopMode": "INFINITE",
+        "stopTimeSec": 3600,
+        "stopCycles": 10,
+        "closeMethod": "REOPEN",
+        "keepScreenOn": true
+      }
+    },
+    {
+      "v": 1,
+      "id": "03d4679b-df7b-435d-84f3-bfee05a18f6b",
+      "name": "手動広告115秒",
+      "mode": "MULTI",
+      "updatedAt": 1792313756720,
+      "settings": {
+        "intervalMs": 115000,
+        "intervalValue": 115000,
+        "intervalUnit": "MS",
+        "stopMode": "INFINITE",
+        "stopTimeSec": 300,
+        "stopCycles": 6,
+        "antiDetection": false
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 531,
+          "y": 878,
+          "endX": 265,
+          "endY": 593,
+          "delayMs": 115000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 54,
+          "y": 106,
+          "endX": 313,
+          "endY": 638,
+          "delayMs": 5000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ],
+      "color": "#4CAF50"
+    },
+    {
+      "v": 1,
+      "id": "c6f29e4a-c01c-4758-8300-770d54fe023b",
+      "name": "検索",
+      "mode": "MULTI",
+      "updatedAt": 1792314034837,
+      "settings": {
+        "intervalMs": 100,
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "CYCLES",
+        "stopTimeSec": 300,
+        "stopCycles": 63,
+        "antiDetection": true
+      },
+      "targets": [
+        {
+          "type": "TAP",
+          "x": 646,
+          "y": 1385,
+          "endX": 265,
+          "endY": 593,
+          "delayMs": 22000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 438,
+          "y": 103,
+          "endX": 313,
+          "endY": 638,
+          "delayMs": 2000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        },
+        {
+          "type": "TAP",
+          "x": 650,
+          "y": 1116,
+          "endX": 360,
+          "endY": 683,
+          "delayMs": 2000,
+          "pressMs": 50,
+          "swipeMs": 300,
+          "repeat": 1
+        }
+      ],
+      "color": "#2196F3"
+    }
+  ]
+}
