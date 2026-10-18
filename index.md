@@ -21,7 +21,7 @@
 
 <a href="./オートタップ設定_20261014_1114.json" download>オートタップ設定_20261014_M.json</a>
 
-<a href="./オートタップ設定_20261016_E.json" download>オートタップ設定_20261016_E.json</a>
+<a href="./オートタップ設定_20261018_E.json" download>オートタップ設定_20261018_E.json</a>
 
 <a href="./オートタップ設定_動画.json" download>オートタップ設定_動画.json</a>
 
