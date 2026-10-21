@@ -15,6 +15,8 @@
 
 <a href="./オートタップ_v1.4.0.apk" download>オートタップ_v1.4.0.apk</a>
 
+<a href="./オートタップ_v1.5.0.apk" download>オートタップ_v1.5.0.apk</a>
+
 <a href="./オートタップ設定_20261014_1114.json" download>オートタップ設定_20261014_M.json</a>
 
 <a href="./オートタップ設定_20261018_E.json" download>オートタップ設定_20261018_E.json</a>
