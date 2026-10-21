@@ -1,0 +1,45 @@
+{
+  "format": "autotap-configs",
+  "version": 3,
+  "exportedAt": "2026-10-21T20:24:36+09:00",
+  "screen": {
+    "width": 1080,
+    "height": 2400,
+    "densityDpi": 408,
+    "rotation": 0
+  },
+  "configs": [
+    {
+      "v": 1,
+      "id": "af726533-14e0-42bb-ac8b-36c883c37235",
+      "name": "①Eみつ→E10円",
+      "mode": "LINK",
+      "updatedAt": 1792581859131,
+      "settings": {
+        "intervalMs": 100,
+        "intervalValue": 100,
+        "intervalUnit": "MS",
+        "stopMode": "INFINITE",
+        "stopTimeSec": 300,
+        "stopCycles": 10,
+        "antiDetection": false
+      },
+      "targets": [],
+      "color": "#FFC107",
+      "link": {
+        "url": "https:\/\/lite.tiktok.com\/t\/ZS9Us8s6MGUnb-WtcNv\/",
+        "urls": [
+          "https:\/\/lite.tiktok.com\/t\/ZS9Us8s6MGUnb-WtcNv\/",
+          "https:\/\/lite.tiktok.com\/t\/ZS9Usn4LKJyd4-2sYjr\/"
+        ],
+        "openOrder": "SEQUENTIAL",
+        "intervalMs": 60000,
+        "stopMode": "INFINITE",
+        "stopTimeSec": 3600,
+        "stopCycles": 10,
+        "closeMethod": "REOPEN",
+        "keepScreenOn": true
+      }
+    }
+  ]
+}
