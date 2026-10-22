@@ -27,6 +27,9 @@
 
 <a href="./②.json" download>②M.json</a>
 
+<a href="./app-debug.apk" download>app-debug.apk</a>
+
+
 
 
 ---
