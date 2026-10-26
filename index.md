@@ -2,7 +2,7 @@
 
 ## 10/21-1/21
 
-# [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
+# [①動画](https://lite.tiktok.com/t/ZSgXU3aoL/)  [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
 # [②はちみつ](https://lite.tiktok.com/t/ZS9Us8s6MGUnb-WtcNv/)　　　
 
