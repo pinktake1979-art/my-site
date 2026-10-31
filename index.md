@@ -20,7 +20,7 @@
 
 <a href="./オートタップ設定_20261031.json" download>オートタップ設定_20261031_M</a>
 
-<a href="./オートタップ設定_20261018_E.json" download>オートタップ設定_20261018_E.json</a>
+<a href="./オートタップ設定_20261031_E.json" download>オートタップ設定_20261031_E</a>
 
 <a href="./app-debug.apk" download>app-debug.apk</a>
 
