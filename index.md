@@ -22,12 +22,6 @@
 
 <a href="./オートタップ設定_20261018_E.json" download>オートタップ設定_20261018_E.json</a>
 
-<a href="./オートタップ設定_動画.json" download>オートタップ設定_動画.json</a>
-
-<a href="./①.json" download>①E.json</a>
-
-<a href="./②.json" download>②M.json</a>
-
 <a href="./app-debug.apk" download>app-debug.apk</a>
 
 
