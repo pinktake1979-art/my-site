@@ -5,16 +5,10 @@
 # [①動画](https://lite.tiktok.com/t/ZSgXU3aoL/)  
 [①動画](https://lite.tiktok.com/t/ZSM3Brfdn/) 
 
-# [②はちみつ](https://lite.tiktok.com/t/ZS9Us8s6MGUnb-WtcNv/)　　　
+# [①はちみつ](https://lite.tiktok.com/t/ZS9Us8s6MGUnb-WtcNv/)　　　[Ｅ用はちみつ](https://lite.tiktok.com/t/ZS9Us8p7GxxPv-74miN/)
 
-# [③Ｅ紹介](https://lite.tiktok.com/t/ZS9Usn4LKJyd4-2sYjr/)　　　 [④Ｍ紹介](https://lite.tiktok.com/t/ZS9UsLtS7tQ2X-J6FFU/)
+# [Ｅ紹介](https://lite.tiktok.com/t/ZS9Usn4LKJyd4-2sYjr/)　　　 [Ｍ紹介](https://lite.tiktok.com/t/ZS9UsLtS7tQ2X-J6FFU/)
 
-
-[Ｅ用はちみつ](https://lite.tiktok.com/t/ZS9Us8p7GxxPv-74miN/)
-
-<a href="./オートタップ_v1.3.0.apk" download>オートタップ_v1.3.0.apk</a>
-
-<a href="./オートタップ_v1.4.0.apk" download>オートタップ_v1.4.0.apk</a>
 
 <a href="./オートタップ_v1.5.0.apk" download>オートタップ_v1.5.0.apk</a>
 
