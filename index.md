@@ -8,7 +8,7 @@
 # [①はちみつ](https://lite.tiktok.com/t/ZS9Us8s6MGUnb-WtcNv/)
 [②はちみつ](https://lite.tiktok.com/t/ZS9Us8p7GxxPv-74miN/)
 
-# [65-4451](https://lite.tiktok.com/t/ZS9fDMmn8SdMG-2Qcq8/)　　[42-2680](https://lite.tiktok.com/t/ZS9fhJXxgUAUR-VDjmd/)
+# [65-4451](https://lite.tiktok.com/t/ZS9fDMmn8SdMG-2Qcq8/)　　[42-2790](https://lite.tiktok.com/t/ZS9fhJXxgUAUR-VDjmd/)
 
 
 <a href="./オートタップ_v1.5.0.apk" download>オートタップ_v1.5.0.apk</a>
