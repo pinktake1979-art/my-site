@@ -10,6 +10,8 @@
 
 # [65-4451](https://lite.tiktok.com/t/ZS9fDMmn8SdMG-2Qcq8/)　　[42-2790](https://lite.tiktok.com/t/ZS9fhJXxgUAUR-VDjmd/)
 
+[試し](https://lite.tiktok.com/t/ZS9fuKmPv1jyy-aH7Dv/)
+
 
 <a href="./オートタップ_v1.5.0.apk" download>オートタップ_v1.5.0.apk</a>
 
