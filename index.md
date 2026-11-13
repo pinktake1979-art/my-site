@@ -10,8 +10,9 @@
 
 # []()　　[24-4646](https://lite.tiktok.com/t/ZS9fxmNqH5Q8u-6wtiA/)
 
-[試し](https://lite.tiktok.com/t/ZS9fuKmPv1jyy-aH7Dv/)
-
+[6-4431](https://lite.tiktok.com/t/ZS9fCuaFQ6snH-f88CU/)
+[29-4190](https://lite.tiktok.com/t/ZS9fCu1tasrvN-5LOC3/)
+[3-3976](https://lite.tiktok.com/t/ZS9fCuRpJurgV-hJSeu/)
 
 <a href="./オートタップ_v1.5.0.apk" download>オートタップ_v1.5.0.apk</a>
 
