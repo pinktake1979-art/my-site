@@ -8,7 +8,7 @@
 # [①はちみつ](https://lite.tiktok.com/t/ZS9Us8s6MGUnb-WtcNv/)
 [②はちみつ](https://lite.tiktok.com/t/ZS9Us8p7GxxPv-74miN/)
 
-# [23-4099](https://lite.tiktok.com/t/ZS9PyoERWAYgJ-bqmeZ/)　　[4-3958](https://lite.tiktok.com/t/ZS9P1yfQuCEmV-yrgXo/)
+# []()　　[4-3958](https://lite.tiktok.com/t/ZS9P1yfQuCEmV-yrgXo/)
 
 # []()　　[]()
 
